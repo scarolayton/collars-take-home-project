@@ -216,8 +216,6 @@ yarn test
 # Unit tests with coverage
 yarn test:cov
 
-# E2E tests
-yarn test:e2e
 
 # Test in watch mode
 yarn test:watch
