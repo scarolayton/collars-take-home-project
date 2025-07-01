@@ -77,6 +77,10 @@ yarn start:dev
 # Production mode
 yarn build
 yarn start:prod
+
+# Lambda mode
+yarn build:lambda
+yarn offline
 ```
 
 The API will be available at `http://localhost:3000`
